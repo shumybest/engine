@@ -11,6 +11,6 @@ require (
 	github.com/logrusorgru/aurora v0.0.0-20200102142835-e9ef32dff381
 	github.com/mattn/go-colorable v0.1.6
 	github.com/pkg/errors v0.9.1
-	github.com/shirou/gopsutil v2.20.1+incompatible
+	github.com/shirou/gopsutil v2.20.8+incompatible
 	github.com/stretchr/testify v1.5.1 // indirect
 )
